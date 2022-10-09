@@ -10,7 +10,7 @@ Calorie counting was one of my main strategies to complete this as it gave me so
 
 Use the following commands when running the app. Note that there's 1 set for txt files and the other for csv files. The app will write data into these types respectively.
 - list eaten <name> <date>     List foods eaten on a given date.
--  list weights <name>          List the weight history for a user.
+- list weights <name>          List the weight history for a user.
 - list dates <name>            List the dates for which there are calorie counts
 - list foods                   List all calorie data for known foods
 - lookup calories <food>       Look up calories for a given food.
