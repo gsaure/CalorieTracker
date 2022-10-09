@@ -9,15 +9,15 @@ I spent this summer trying to lose weight, and am proud to say I lost **50 pound
 Calorie counting was one of my main strategies to complete this as it gave me some sense of control on how I'm losing weight. I developed and used this program to track my progress.
 
 Use the following commands when running the app. Note that there's 1 set for txt files and the other for csv files. The app will write data into these types respectively.
-- list eaten <name> <date>     List foods eaten on a given date.
-- list weights <name>          List the weight history for a user.
-- list dates <name>            List the dates for which there are calorie counts
-- list foods                   List all calorie data for known foods
-- lookup calories <food>       Look up calories for a given food.
-- lookup weight <name> <date>  Look up weight for a given date.
-- total <name> <date>          Calculate total calories for a given user and date.
-- newuser <name>               Create a new user.
-- eaten <name> <food> <weight> Add a food data for today.
-- weighed <name> <weight>      Add weight data for today.
+- list eaten <name> <date> =    List foods eaten on a given date.
+- list weights <name> =         List the weight history for a user.
+- list dates <name> =            List the dates for which there are calorie counts
+- list foods =                  List all calorie data for known foods
+- lookup calories <food> =      Look up calories for a given food.
+- lookup weight <name> <date> = Look up weight for a given date.
+- total <name> <date> =       Calculate total calories for a given user and date.
+- newuser <name> =          Create a new user.
+- eaten <name> <food> <weight> = Add a food data for today.
+- weighed <name> <weight> =     Add weight data for today.
 
 
